@@ -1,20 +1,20 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@centrum/googleMapsIntegration",
   "version": "0.0.0",
-  "description": "Developer starter template for Finsweet projects.",
+  "description": "Testing Google API code from the Finsweet template",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://finsweet.com/"
+    "name": "Tyler Sarjeant",
+    "url": "https://github.com/tsarjeant"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finsweet/developer-starter.git"
+    "url": "git+https://github.com/tsarjeant/google-maps_webflow"
   },
   "bugs": {
-    "url": "https://github.com/finsweet/developer-starter/issues"
+    "url": "https://github.com/tsarjeant/google-maps_webflow/issues"
   },
   "type": "module",
   "main": "src/index.ts",
